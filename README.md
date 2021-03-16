@@ -80,6 +80,9 @@ http://relay.181.fm:8006/;
 #EXTINF:-1,181 FM The Mix
 http://relay.181.fm:8032/;
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKK3Ww5.png" group-title="Musicales",Radio Veronica
+http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND", Bossa Nova
 http://6d9a.webradio.upx.net.br:9974/stream
 
@@ -2692,6 +2695,9 @@ http://ic2.101.ru:8000/v5_1
 
 #EXTINF:-1,Ялта FM
 http://yaltafm.no-ip.info:8000/online
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musicales" tvg-name="Urban Revolution España",Urban Revolution España
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 #EXTINF:-1,Яскраве Радіо
 http://77.88.252.39:8000/yaskrave-128
