@@ -30,7 +30,7 @@ http://relay.181.fm:8062/;
 http://relay.181.fm:8016/;
 
 #EXTINF:-1,181 FM Good Time Oldies
-http://relay.181.fm:8046/;
+http://relay.181.fm:8046/;  
 
 #EXTINF:-1,181 FM Jammin 181
 http://relay.181.fm:8042/;
@@ -187,6 +187,9 @@ https://593b04c4c5670.streamlock.net/8020/8020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lion-tv.com/uploads/posm3u8/2016-09/1472964269_178.png" group-title="RUSSIA",Shanson TV (Opt-2)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--RSTV.png" group-title="BA Buenos Aires",RSTV - 105.1 TV - Berisso - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
+
 #EXTINF:-1,1.FM - All Otto Classical Music
 http://sc1c-sjc.1.fm:7070/;
 
@@ -280,6 +283,8 @@ http://212.26.132.129:8000/ArmyFM
 #EXTINF:-1,Asian Wave
 http://listen1.myradio24.com:9000/7934
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="CD Cd Aut Bs As",Canal 22 - Web   TV - CABA TV Web - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 
 #EXTINF:-1,1.FM Bay Smooth Jazz
 http://sc-sjazz.1.fm:7082
@@ -2399,23 +2404,7 @@ http://listen2.myradio24.com:9000/8584
 #EXTINF:-1,Радио Темрюк
 http://s1.radioheart.ru:8001/radiotemryuk_128
 
-#EXTINF:-1,Радио Теос
-http://5.10.72.187:8004/mp3
 
-#EXTINF:-1,Радио Терра
-http://91.202.2.156:8000/terra
-
-#EXTINF:-1,Радио Тон (Юрга)
-http://files.yutrk.com:8800/ton.mp3
-
-#EXTINF:-1,Радио Тосно плюс
-http://212.116.117.226:8000/sample128
-
-#EXTINF:-1,Радио Точка Ру (Орск)
-http://dotru.trkeurasia.ru:8000/dotru128
-
-#EXTINF:-1,Радио Трек
-http://online2.radiotrek.rv.ua:8000/AAC+_64
 
 #EXTINF:-1,Радио Улитка
 http://air.radioulitka.ru:8000/ulitka_192
@@ -2423,41 +2412,14 @@ http://air.radioulitka.ru:8000/ulitka_192
 #EXTINF:-1,Радио Чипльдук
 http://radio.4duk.ru/4duk128.mp3
 
-#EXTINF:-1,Радио Чистые ключи (Брянск)
-http://3n2.ru:8010/hc
-
-#EXTINF:-1,Радио Шлягер (Одесса)
-http://62.80.190.246:8000/sh256
-
 #EXTINF:-1,Радио Шоколад
 http://choco.hostingradio.ru:10010/fm
-
-#EXTINF:-1,Радио Экстрим
-http://listen.radioextreme.ru/stream1
-
-#EXTINF:-1,Радио Эрмитаж
-http://91.190.117.131:8000/live
-
-#EXTINF:-1,Радио Эталон
-http://radio.dline-media.com/etalon
-
-#EXTINF:-1,РадиоТВ (Донецк)
-http://r.tk-union.tv:8000/stream
-
-#EXTINF:-1,Радиогазета Слово
-http://www.radio-tochka.com:6590/;
-
-#EXTINF:-1,Радиогора
-http://95.211.15.193:9314/live
 
 #EXTINF:-1,Радиола (Екатеринбург)
 http://online1.gkvr.ru:8000/radiola_eka_128.mp3
 
 #EXTINF:-1,Радиола (Саратов)
 http://online1.gkvr.ru:8000/radiola_srt_128.mp3
-
-#EXTINF:-1,Радиус FM
-http://live.radiusfm.by:8000/radius_main
 
 #EXTINF:-1,Радіо з Криївки (18+)
 http://stream.mjoy.ua:8000/radio-z-kryjivky
@@ -2467,12 +2429,6 @@ http://live.radio7.su:9000/deti
 
 #EXTINF:-1,Ретро FM
 http://retroserver.streamr.ru:8043/retro256.mp3
-
-#EXTINF:-1,Ретро FM - Вечеринка
-http://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8
-
-#EXTINF:-1,Ретро FM - Сан-Ремо
-http://hls-01-sanremo.emgsound.ru/5/playlist.m3u8
 
 #EXTINF:-1,Ретро FM 70е
 http://retro70.hostingradio.ru:8025/retro70-128.mp3
@@ -2486,95 +2442,29 @@ http://retro90.hostingradio.ru:8025/retro90-128.mp3
 #EXTINF:-1,Ретро FM UA
 http://cast.radiogroup.com.ua:8000/retro
 
-#EXTINF:-1,Ретро FM UA Dance
-http://cast.radiogroup.com.ua:8000/retro_dance
-
-#EXTINF:-1,Ретро FM UA Romantic
-http://cast.radiogroup.com.ua:8000/retro_romantic
-
-#EXTINF:-1,Ретро FM UA Russian
-http://cast.radiogroup.com.ua:8000/retro_russian
-
-#EXTINF:-1,Ростов FM
-http://rostov.fm/894.mp3
-
 #EXTINF:-1,Русская волна (Кипр)
 http://shout.kalsedia.com:1057/ruwave1057
 
 #EXTINF:-1,Русские песни
 http://listen.rusongs.ru:8005/ru-mp3-128
 
-#EXTINF:-1,Русский Хит
-http://ruhit2.imgradio.pro/RusHit192
-
 #EXTINF:-1,Русское Радио (Молдова)
 http://live.ruradio.md:8000/ruradio
-
-#EXTINF:-1,Русское Радио - Бессмертный Полк
-http://icecast.russkoeradio.cdnvideo.ru/st10.mp3
-
-#EXTINF:-1,Русское Радио - Высоцкий
-http://icecast.russkoeradio.cdnvideo.ru/st27.mp3
-
-#EXTINF:-1,Русское Радио - Детский канал
-http://icecast.russkoeradio.cdnvideo.ru/st28.mp3
-
-#EXTINF:-1,Русское Радио - Золотой Граммофон
-http://icecast.russkoeradio.cdnvideo.ru/st31.mp3
-
-#EXTINF:-1,Русское Радио - Русский Рок
-http://icecast.russkoeradio.cdnvideo.ru/st37.mp3
-
-#EXTINF:-1,Русское Радио - Русское Кино
-http://icecast.russkoeradio.cdnvideo.ru/st19.mp3
-
-#EXTINF:-1,Русское Радио UA
-http://online-rusradio.tavrmedia.ua/RusRadio
-
-#EXTINF:-1,Самарское Губернское Радио
-http://46.20.71.66:8000/fm
 
 #EXTINF:-1,Свит FM
 http://195.234.148.52:8000/;
 
-#EXTINF:-1,Свобода
-http://svobodanews.fvds.ru:8000/Test_RFERL_stream
-
-#EXTINF:-1,Свое Радио
-http://svoeradiofm.hostingradio.ru:8032/svoe-128.mp3
-
 #EXTINF:-1,Серебряный дождь
 http://213.59.4.27:8000/silver128.mp3
-
-#EXTINF:-1,Соль FM
-http://solfm.ru:8000/online128
-
-#EXTINF:-1,Союз FM
-http://soyuztop.ru:4000/radio
 
 #EXTINF:-1,Спокойное
 http://listen1.myradio24.com:9000/6262
 
-#EXTINF:-1,Спорт FM
-http://sportfm.hostingradio.ru:8050/sportfm128.mp3
-
-#EXTINF:-1,Спортмастер
-http://138.201.49.180:8000/sportmaster
-
-#EXTINF:-1,Спутник (Крым)
-http://icecast-ruvr.cdnvideo.ru/rian.voicesym
-
 #EXTINF:-1,Старое Радио - Музыка
 http://195.91.237.50:8000/music128
 
-#EXTINF:-1,Старое Радио - Театр
-http://server.audiopedia.su:8000/ices128
-
 #EXTINF:-1,Страна FM
 http://icecast.stranafm.cdnvideo.ru/stranafm_256
-
-#EXTINF:-1,Сумерки
-http://sumerki.su:8000/Sumerki
 
 #EXTINF:-1,Сяйво
 http://stream.ntktv.ua:8000/syaivo.mp3
@@ -2585,80 +2475,14 @@ http://radiotakt.com.ua:8000/takt.mp3
 #EXTINF:-1,ТНТ Music Радио
 http://tntradio.hostingradio.ru:8027/tntradio128.mp3
 
-#EXTINF:-1,Тартип FM
-http://stream01.hitv.ru:8000/tartip-fm-256kb
-
-#EXTINF:-1,Татар Радиосы
-http://stream.tatarradio.ru:2068/;stream
-
 #EXTINF:-1,Теплое радио (Беларусь)
 http://radio2.teploe.net:8000/teploeradio
 
 #EXTINF:-1,Типичное FM
 http://play.tipfm.ru:9000/9696
 
-#EXTINF:-1,Тиса FM
-http://213.174.8.114:8080/Tysa_FM
-
-#EXTINF:-1,Тихий Дон (Ростов-на-Дону)
-http://skycast.su:2007/3749
-
-#EXTINF:-1,Томский Благовест
-http://176.65.38.3:8000/blagovest
-
-#EXTINF:-1,Украинское радио - ВСРУ
-http://nrcu.gov.ua:8000/ur4-mp3
-
-#EXTINF:-1,Украинское радио - Культура
-http://91.194.250.169:8000/ur3-mp3
-
-#EXTINF:-1,Украинское радио - Перший
-http://nrcu.gov.ua:8000/ur1-mp3
-
-#EXTINF:-1,Украинское радио - Проминь
-http://nrcu.gov.ua:8000/ur2-mp3
-
-#EXTINF:-1,Урюпинск FM
-http://radio.dline-media.com/urupinsk.fm
-
-#EXTINF:-1,Ух радіо
-http://online.uhradio.com.ua:8001/efir
-
-#EXTINF:-1,Фреш FM UA
-http://193.53.83.3:8000/fresh-fm_mp3
-
-#EXTINF:-1,Хiт FM UA
-http://online-hitfm2.tavrmedia.ua/HitFM_Live
-
-#EXTINF:-1,Херсон FM
-http://77.121.4.210:8010/khersonfm
-
-#EXTINF:-1,Хит FM (KG)
-http://77.235.11.2:8000/hitfm
-
-#EXTINF:-1,Хит FM 2000-е
-http://icecast.radiohitfm.cdnvideo.ru/st12.mp3
-
-#EXTINF:-1,Хит FM 90-е
-http://icecast.radiohitfm.cdnvideo.ru/st13.mp3
-
-#EXTINF:-1,Хит FM Dance
-http://icecast.radiohitfm.cdnvideo.ru/st33.mp3
-
-#EXTINF:-1,Хит FM Romantic
-http://icecast.radiohitfm.cdnvideo.ru/st14.mp3
-
-#EXTINF:-1,Хит FM The Greatest Him3u8
-http://icecast.radiohitfm.cdnvideo.ru/st02.mp3
-
-#EXTINF:-1,Хит FM Urban
-http://icecast.radiohitfm.cdnvideo.ru/st04.mp3
-
 #EXTINF:-1,Хит-Навигатор Ишимбай
 http://navigator-rg.dynalias.org:8005/hit-navigator.mp3
-
-#EXTINF:-1,Хитрое Радио
-http://stream.hitroe.com/stream
 
 #EXTINF:-1,Хорошее FM
 http://radio.horoshee.fm:8000/mp3
@@ -2666,55 +2490,21 @@ http://radio.horoshee.fm:8000/mp3
 #EXTINF:-1,Центр Ульяновск
 http://radio.mv.ru:8080/Radio_centr
 
-#EXTINF:-1,Чартова Дюжина
-http://s02.radio-tochka.com:4180/radio
-
 #EXTINF:-1,Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
-
-#EXTINF:-1,Шансон Без Цензуры
-http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
 
 #EXTINF:-1,Шансон Романтика
 http://chanson.hostingradio.ru:8041/chanson-romantic128.mp3
 
-#EXTINF:-1,Шторм FM
-http://live.shtorm.fm:8000/mp3
-
-#EXTINF:-1,Экспресс Радио (Орёл)
-http://159.253.18.97:8000/128kbit.mp3
-
-#EXTINF:-1,Эл-Радио (Челябинск)
-http://server.lradio.ru:8000/lradio320.ogg
-
 #EXTINF:-1,Эльдорадио
 http://emgspb.hostingradio.ru/eldoradio128.mp3
-
-#EXTINF:-1,Юмор FM
-http://ic2.101.ru:8000/v5_1
 
 #EXTINF:-1,Ялта FM
 http://yaltafm.no-ip.info:8000/online
 
-#EXTINF:-1,Music Choice Dance/EDM VIP US
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683905
-
-#EXTINF:-1,Music Choice Hip-Hop & R&B VIP US
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683906
-
-#EXTINF:-1,Music Choice R&B Soul VIP US
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683909
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musicales" tvg-name="Urban Revolution España",Urban Revolution España
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-
 #EXTINF:-1,Яскраве Радіо
 http://77.88.252.39:8000/yaskrave-128
 
-#EXTINF:-1,1.FM - Chillout Lounge Radio
-http://sc1c-sjc.1.fm:7008/;
 
-#EXTINF:-1,1.FM - Absolute Trance
-http://sc-trance.1.fm:8040/;
 
 
